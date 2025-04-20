@@ -1,6 +1,11 @@
 # 💫 About Me:
-## 👋 Hi there! I'm Hifza Rafiq<br><br>🎓 BS Computer Science student at **COMSATS University** <br>💻 I create **web applications (MERN Stack)** and **mobile apps (Flutter + Firebase)**  <br>🌱 Currently diving into **Cloud Computing**, **AI/ML technologies**, and actively participating in **Capture The Flag (CTF)** challenges<br>🎨 I also paint nature-inspired art and share thoughtful blogs  <br>🚀 Always excited to learn something new and build useful things!<br><br>---<br><br>
+## 👋 Hi there! I'm Hifza Rafiq
 
+🎓 BS Computer Science student at **COMSATS University**  
+💻 I create **web apps (MERN Stack)** & **mobile apps (Flutter + Firebase)**  
+🌱 Exploring **Cloud Computing**, **AI/ML**, and participating in **CTFs**  
+🎨 I paint nature-inspired art & write reflective blogs  
+🚀 Always eager to learn and build meaningful things!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kefiyart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hifza-rafiq) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hifzarafiq19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hifzarafiq183@gmail.com) 
